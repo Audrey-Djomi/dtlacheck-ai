@@ -5,7 +5,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.35%2B-FF4B4B?logo=streamlit)](https://streamlit.io/)
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)](https://pandas.pydata.org/)
 [![Groq](https://img.shields.io/badge/LLM-Groq%20Cloud-F55036)](https://groq.com/)
-[![License: PolyForm](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/PolyFormProjectInc)
+[![License: PolyForm Noncommercial 1.0.0](https://img.shields.io/badge/License-PolyForm_Noncommercial_1.0.0-blue.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
 
 Application web interactive d'audit de qualité de données (CSV & Excel) conçue pour accélérer la phase d'exploration (EDA) et vulgariser les anomalies techniques auprès des équipes métier grâce à l'IA générative.
 

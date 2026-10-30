@@ -58,6 +58,7 @@ Fichier CSV / Excel ->  Moteur Python / Pandas (Local) | Détection mathématiqu
 ### 1. Cloner le dépôt depuis le terminal bash
 
 git clone https://github.com/Audrey-Djomi/dtlacheck-ai.git
+
 cd /projet-dtlacheck
 
 ### 2. Créer un environnement virtuel (recommandé)
@@ -105,7 +106,7 @@ Consultez le fichier `LICENSE` pour connaître les conditions complètes :
 
 ## 👤 À propos de l'Auteure
 
-nom: Audrey DJOMI
+Nom: Audrey DJOMI
 
 Projet réalisé dans le cadre de ma reconversion professionnelle en Analyse de Données.
 

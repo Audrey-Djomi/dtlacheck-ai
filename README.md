@@ -5,7 +5,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.35%2B-FF4B4B?logo=streamlit)](https://streamlit.io/)
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)](https://pandas.pydata.org/)
 [![Groq](https://img.shields.io/badge/LLM-Groq%20Cloud-F55036)](https://groq.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/PolyFormProjectInc)
 
 Application web interactive d'audit de qualité de données (CSV & Excel) conçue pour accélérer la phase d'exploration (EDA) et vulgariser les anomalies techniques auprès des équipes métier grâce à l'IA générative.
 
@@ -55,10 +55,10 @@ Fichier CSV / Excel ->  Moteur Python / Pandas (Local) | Détection mathématiqu
 * Python 3.10 ou supérieur installé.
 * Git installé.
 
-### 1. Cloner le dépôt
+### 1. Cloner le dépôt depuis le terminal bash
 
-git clone https://github.com/votre-nom-utilisateur/nom-de-votre-repo.git
-cd nom-de-votre-repo
+git clone https://github.com/Audrey-Djomi/dtlacheck-ai.git
+cd /projet-dtlacheck
 
 ### 2. Créer un environnement virtuel (recommandé)
 
@@ -109,7 +109,8 @@ nom: Audrey DJOMI
 
 Projet réalisé dans le cadre de ma reconversion professionnelle en Analyse de Données.
 
-LinkedIn : Mon Profil LinkedIn
-GitHub : @votre-profil
+LinkedIn : Audrey DJOMI
+
+GitHub : @Audrey-Djomi
 
 

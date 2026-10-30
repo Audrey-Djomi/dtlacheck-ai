@@ -1,0 +1,19 @@
+# Environnements virtuels
+venv/
+.venv/
+env/
+
+# Fichiers Python temporaires
+__pycache__/
+*.pyc
+
+# Données personnelles et clés secrètes
+.env
+*.csv
+*.xlsx
+*.xls
+.streamlit/secrets.toml
+
+# Système
+.DS_Store
+Thumbs.db

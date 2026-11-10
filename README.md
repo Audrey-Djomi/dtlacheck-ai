@@ -47,6 +47,20 @@ Fichier CSV / Excel ->  Moteur Python / Pandas (Local) | Détection mathématiqu
 * 🤖 **Diagnostic IA (Groq / Llama / OSS) :** Traduction vulgarisée des impacts business et suggestions concrètes de nettoyage.
 * 💡 **Mode Démo & Simulation :** Possibilité de tester l'application en un clic sans clé API ni fichier personnel.
 
+--- 
+## 🎥 Démonstration de la vidéo
+Découvrez **DtlaCheck IA** à travers cette courte démonstration vidéo.
+
+Cette application a été réalisée dans le cadre d'une mini-formation consacrée au déploiement d'applications avec l'intelligence artificielle (Google Career Certificates / Coursera).
+
+Le projet m'a permis de mettre en pratique le vibe coding pour concevoir une mini-application conçue pour faciliter certaines opérations de contrôle et la vérification de fichiers de données.
+
+[![Voir la démonstration de DtlaCheck IA](https://img.youtube.com/vi/K0TpkOuWBGM/hqdefault.jpg)](https://youtu.be/K0TpkOuWBGM)
+
+▶️ [Regarder la démonstration sur YouTube](https://youtu.be/K0TpkOuWBGM)
+
+Code source : disponible dans ce dépôt.
+
 ---
 
 ## 🚀 Installation & Démarrage Rapide
